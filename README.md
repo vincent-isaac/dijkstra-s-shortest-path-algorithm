@@ -1,4 +1,6 @@
-# Dijkstra's Shortest Path Algorithm
+## EX NO:03
+## DATE:10.05.2022
+# <p align="center">Dijkstra's Shortest Path Algorithm
 ## AIM
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
@@ -33,6 +35,10 @@ d) If the selected node is not the GOAL node, expand node to generate the ‘imm
 ![WhatsApp Image 2022-05-01 at 9 56 54 PM](https://user-images.githubusercontent.com/75234588/166159420-b0cca715-d1cd-4e4f-87ab-1c48054fc5c9.jpeg)
 
 ## PROGRAM
+```
+Developed by: Vincent Isaac Jeyaraj J 
+Register  No:  212220230060
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
